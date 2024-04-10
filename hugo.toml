@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://trouble.me"
+baseURL = "https://troubled.me"
 theme = "hugo-bearcub"
 copyright = "troubled.me (CC BY 4.0)"
 defaultContentLanguage = "en"
@@ -34,7 +34,7 @@ rssLimit = 3
   [languages.en]
     title = "troubled.me"
     languageName = "en-US 🇺🇸"
-    LanguageCode = "en-US"
+    languageCode = "en-US"
     contentDir = "content"
 #    [languages.en.params]
 #      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
