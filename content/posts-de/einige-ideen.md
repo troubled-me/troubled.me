@@ -2,7 +2,6 @@
 title: "Einige Ideen"
 description: "Bessere Ideen für eine menschlichere Zukunft"
 date: 2024-04-10
-tags: ["Gedanken"]
 categories: ["deutsch"]
 ---
 

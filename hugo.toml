@@ -7,6 +7,9 @@ defaultContentLanguage = "en"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
+# disable tags and categories
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 # ignore files when building
 ignoreFiles = ["/content/tbd/*"]
 rssLimit = 3
@@ -15,6 +18,7 @@ rssLimit = 3
 #  section = ['html', 'rss']
 #  taxonomy = ['html']
 #  term = ['html']
+
 
 # Setup syntax highlighting without inline styles. For more information about
 # why you'd want to avoid inline styles, see
