@@ -5,4 +5,4 @@ weight: 1
 ---
 &nbsp;
 
-Willkommen in meiner digitalen Sphäre. Hier lege ich meine Gedanken ab, wenn sie mich nicht ruhen lassen.
+Welcome in my digital sphere. This is where I like to put my thoughts when they keep turning in circles in the hope of getting some rest.
