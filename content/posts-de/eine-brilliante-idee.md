@@ -2,7 +2,6 @@
 title: "Eine brilliante Idee"
 description: "Kurzgeschichte: Die Erfindung der Blockkette"
 date: 2024-02-01
-tags: ["fiktion", "blockchain", "finanz", "crypto"]
 categories: ["deutsch"]
 series: ["fiction"]
 aliases: ["blockkette"]
