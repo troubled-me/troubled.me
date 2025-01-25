@@ -89,4 +89,4 @@ rssLimit = 3
   # email is also added to the footer of each post
   [params.author]
     name = "troubled.me" # Your name as shown in the RSS feed metadata
-    email = "troubled.me@proton.com" # Added to the footer so readers can reply to posts
+    email = "troubled@posteo.me" # Added to the footer so readers can reply to posts

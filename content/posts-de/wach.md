@@ -2,7 +2,6 @@
 title: "Wach"
 description: "Warum ich nicht schlafen kann"
 date: 2024-04-10
-tags: ["Gedanken"]
 categories: ["deutsch"]
 ---
 
